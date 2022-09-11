@@ -21,6 +21,6 @@ color: #FFF;
 text-align: center;
 border-bottom: 1px solid #444;
 padding-bottom: 20px;
-font-family: 'M';
+font-family:  'M';
 
 `
